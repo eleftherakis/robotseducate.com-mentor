@@ -5,4 +5,4 @@ Mentor is an educational tool (Educational and Pedagogical Designer, Software Ar
 
 Learn and develop computational thinking skills by visiting worlds of fantasy!
 
-Go Ahead and [Download Mentor](mentor_logo_150-01.png)
+Go Ahead and [Download Mentor](MentorForAll.zip)
